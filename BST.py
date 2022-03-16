@@ -156,3 +156,6 @@ bst.insert(9)
 
 bst.display(bst.root)
 bst.find_i(6)
+bst.find_r(8)
+bst.find_i(20)
+bst.find_r(12)
