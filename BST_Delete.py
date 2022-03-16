@@ -265,3 +265,4 @@ bst.insert(9)
 
 bst.display(bst.root)
 bst._remove(6)
+bst.display(bst.root)
